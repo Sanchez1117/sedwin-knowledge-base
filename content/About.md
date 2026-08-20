@@ -1,0 +1,3 @@
+# About Me 
+
+My name is Sedwin Sanchez, and I have a strong interest in maintaining a healthy lifestyle through nutrition and regular exercise. My passion for cars began at a young age while growing up with a 1977 Pontiac Trans Am. Over time, that experience developed into a deeper interest in automotive design, engineering, performance, and the distinctive sounds produced by different engines. Outside of my interest in cars, I enjoy playing soccer and staying active. I have also recently started learning German, so I am still very new to the language and have much more to learn.

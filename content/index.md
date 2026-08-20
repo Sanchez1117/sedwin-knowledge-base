@@ -1,9 +1,9 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
-## The index page
+## Exotic and Performance Cars
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This knowledge base explores exotic and performance cars, focusing on powerful engines, incredible speed, engineering, and the unique sounds that make these cars stand out.
 
 ## Editing pages
 
