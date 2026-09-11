@@ -31,4 +31,5 @@ The Vantage is designed to provide responsive handling and a balanced driving ex
 
 The Aston Martin Vantage provides an interesting comparison with the [[Lexus LFA]]. Both cars place importance on the sound and character of their engines, although they use very different engine designs. The Vantage can also be compared with the [[Ferrari 812]] because both are designed to provide a combination of performance and road focused driving.
 
-![[Aston Martin Vantage.jpg]]
+
+![Aston Martin Vantage](Aston%20Martin%20Vantage.jpg)

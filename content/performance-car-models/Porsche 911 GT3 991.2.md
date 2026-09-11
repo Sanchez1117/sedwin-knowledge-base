@@ -33,4 +33,5 @@ Compared with the [[McLaren 720S]], the GT3 has a more traditional approach to p
 
 The Porsche 911 GT3 (991.2) can also be compared with the [[Lexus LFA]], another high performance car known for its naturally aspirated engine and strong focus on the driving experience.
 
-![[991-gt3-touring-iaa-renndriver.webp]]
+
+![Porsche 911 GT3 991.2](991-gt3-touring-iaa-renndriver.webp)

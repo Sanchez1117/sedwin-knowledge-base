@@ -34,4 +34,4 @@ Lexus used carbon fiber reinforced plastic for a large portion of the LFA's stru
 The Lexus LFA has an interesting connection to the [[Porsche 911 GT3 991.2]] because both cars use naturally aspirated engines that can reach very high engine speeds. They approach performance differently, with the Porsche focusing on a flat six engine and the Lexus using a V10. The LFA also provides a useful comparison with the [[Aston Martin Vantage]] because both cars show how engine character can become an important part of a performance car's identity.
 
 
-![[Lexus LFA.webp]]
+![Lexus LFA](Lexus%20LFA.webp)
