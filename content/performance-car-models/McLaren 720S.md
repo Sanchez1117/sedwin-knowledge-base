@@ -31,6 +31,6 @@ McLaren developed the 720S with advanced suspension technology and electronic dr
 
 ## Related Performance Cars
 
-The McLaren 720S is a useful comparison to the [[Porsche 911 GT3 (991.2)]]. The Porsche uses a naturally aspirated flat six and focuses heavily on mechanical feedback, while the McLaren uses a turbocharged V8 and more advanced technology. The 720S can also be compared with the [[Ferrari 812]] because both cars are capable of extremely high performance while using very different engineering approaches.
+The McLaren 720S is a useful comparison to the [[Porsche 911 GT3 991.2]]. The Porsche uses a naturally aspirated flat six and focuses heavily on mechanical feedback, while the McLaren uses a turbocharged V8 and more advanced technology. The 720S can also be compared with the [[Ferrari 812]] because both cars are capable of extremely high performance while using very different engineering approaches.
 
 ![[McLaren 720S.jpg]]
