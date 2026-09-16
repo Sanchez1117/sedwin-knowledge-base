@@ -35,3 +35,17 @@ The Porsche 911 GT3 (991.2) can also be compared with the [[Lexus LFA]], another
 
 
 ![Porsche 911 GT3 991.2](991-gt3-touring-iaa-renndriver.webp)
+
+
+
+
+
+## Additional Resources
+
+### Porsche 911 GT3 Image
+
+![[assets/991-gt3-touring-iaa-renndriver.webp]]
+
+### 2018 Porsche 911 GT3 Brochure
+
+![[assets/Porsche_US 911GT3_2018.pdf]]
