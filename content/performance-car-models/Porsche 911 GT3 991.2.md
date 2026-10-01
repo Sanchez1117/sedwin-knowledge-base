@@ -1,3 +1,8 @@
+---
+title: Porsche 911 GT3 991.2
+date: 2026-10-02
+---
+
 # Porsche 911 GT3 (991.2)
 
 The Porsche 911 GT3 (991.2) is a high performance sports car that combines the familiar shape of the 911 with technology and engineering designed for serious driving. Introduced for the 2018 model year, this generation of the GT3 is especially known for its naturally aspirated engine, high revving character, and sharp handling. Unlike many modern performance cars that use turbocharged engines, the GT3 uses a 4.0 liter flat six engine that rewards drivers who enjoy building engine speed and reaching high rpm. The 991.2 GT3 was offered with both a seven speed PDK transmission and a six speed manual transmission, giving drivers different ways to experience the car. Its combination of power, balance, and driver focused engineering has made it an important model in the history of the 911 GT3.

@@ -1,3 +1,7 @@
+---
+title: McLaren 720S
+date: 2026-10-02
+---
 # McLaren 720S
 
 The McLaren 720S is a mid engine supercar that became one of McLaren's best known road cars. It is part of the Super Series and was designed with a strong focus on acceleration, handling, and lightweight construction. Unlike the naturally aspirated engines found in cars such as the Porsche 911 GT3 and Ferrari 812, the 720S uses a twin turbocharged V8 engine. This allows the car to produce a large amount of power from a relatively small engine. The 720S also uses a carbon fiber structure, which helps reduce weight and improve the car's performance. Its design is very different from traditional sports cars, with aerodynamic features and unusual door openings that emphasize its supercar character.

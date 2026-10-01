@@ -1,3 +1,7 @@
+---
+title: Lexus LFA
+date: 2026-10-02
+---
 # Lexus LFA
 
 The Lexus LFA is a Japanese supercar that is known for its unusual engineering, high revving V10 engine, and limited production. Lexus developed the LFA as a technology focused performance car that could compete with some of the world's most respected exotic cars. One of the most memorable parts of the LFA is its 4.8 liter naturally aspirated V10 engine. The engine was developed with input from Yamaha and was designed to respond very quickly to throttle changes. The LFA also used extensive carbon fiber construction to reduce weight and improve rigidity. Because only a limited number were produced, the LFA has become a particularly interesting car for collectors and performance car enthusiasts.

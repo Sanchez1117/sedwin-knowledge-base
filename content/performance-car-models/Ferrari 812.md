@@ -1,3 +1,7 @@
+---
+title: Ferrari 812
+date: 2026-10-02
+---
 # Ferrari 812
 
 The Ferrari 812 is a front engine grand touring sports car that combines high performance with the comfort and style expected from Ferrari. It was introduced as the successor to the Ferrari F12berlinetta and became known for its large naturally aspirated V12 engine. The 812 Superfast uses a 6.5 liter V12 that produces 789 horsepower, making it one of the most powerful naturally aspirated production cars of its time. Ferrari designed the car to be extremely fast while still giving the driver enough comfort for longer drives. Its front engine layout also gives it a different driving character from mid engine cars such as the [[McLaren 720S]]. The 812 is an interesting example of Ferrari continuing to use a naturally aspirated V12 engine while many other performance cars were moving toward smaller turbocharged engines.
